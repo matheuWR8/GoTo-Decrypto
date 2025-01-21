@@ -1,2 +1,10 @@
 # GoTo-Decrypto
-Aplicação para criptografar e decriptografar texto
+## Descrição
+Projeto desenvolvido para o curso de Engenharia de Computação (1º semestre, 1/2023), consistindo numa aplicação em C# com interface em Windows Forms que faz a criptografia e decriptografia de textos, utilizando métodos de operações matriciais. Foi um projeto em grupo para as disciplinas de Algoritmos I e Álgebra Linear.
+
+## Participantes
+Seguem os membros do grupo que desenvolveu o projeto:
+Matheus Souza
+Gabriel Melo
+Rafael Barrocal
+Pedro Reys
