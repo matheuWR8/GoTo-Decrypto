@@ -4,7 +4,11 @@ Projeto desenvolvido para o curso de Engenharia de Computação (1º semestre, 1
 
 ## Participantes
 Seguem os membros do grupo que desenvolveu o projeto:
-** Matheus Souza **
-** Gabriel Melo **
-** Rafael Barrocal **
-** Pedro Reys **
+
+Matheus Souza
+
+Gabriel Melo
+
+Rafael Barrocal
+
+Pedro Reys
